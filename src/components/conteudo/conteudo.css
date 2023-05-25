@@ -1,0 +1,89 @@
+.centralizar{
+    background-image: linear-gradient( -110grad, #7a1c4e 30%, #721452, #501358);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+    
+}
+h1{
+    margin-top: 10%;
+}
+header{
+    font-size: 30px;
+    
+    
+}
+.box1{
+    height: 50%;
+    width: 100vw;
+    display: flex;  
+    flex-wrap: wrap;
+    
+}
+.produto{
+    height: 100%;
+    width: 50vw;
+    
+    display: flex;
+    justify-content: center;
+    
+}
+.produtos{
+    height: 80%;
+    
+}
+.Informacao{
+    width: 49vw;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-top: 10%;
+}
+h5{
+    text-indent: 5%;
+}
+p{
+    text-align: justify;
+    font-size: 1.5rem;
+    
+}
+@media (max-width:768px){
+    h1{
+        margin-top: 25%;
+    }
+    .box1{
+        display: grid;
+        grid-template-areas:
+        'Informacao' , 'produto';
+        width: 100%;
+        gap: 10px;
+        justify-content: center;
+        
+        column-gap:2; /* Serve para fazer as colunas*/
+        
+    }
+    .Informacao{
+        width: 80%;
+        margin-left: 45px;
+        
+        
+    }
+    .produto{
+        width: 100%;
+        margin-top: 20%;
+        
+    }
+    .centralizar{
+        width: 100%;
+    }
+    img{
+        width: 50%;
+    }
+ 
+}
