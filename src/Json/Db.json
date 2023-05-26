@@ -1,0 +1,30 @@
+
+
+[
+    {
+        "id": 1,
+        "titulo": "KingSpec SATA3 512GB",
+        "produto": "https://ae01.alicdn.com/kf/H3e90b52afd984d30a9840b923e65daafS/Kingspec-ssd-1tb-240gb-2-5-gb-ssd-sata-120gb-480gb-500gb-128gb-256gb-512gb-hdd.png",
+        "descricao": "Com a unidade de estado sólido da KingSpec, você vai aumentar a capacidade de resposta do seu computador. Graças a esta tecnologia você poderá investir em velocidade e eficiência na inicialização, carregamento e transferência de dados.Mais velocidade ao seu alcance Este produto possui uma interface SATA III responsável pela transferência de dados com a placa-mãe do seu computador. É de muito importante e com a sua velocidade do envio de informação melhora o desempenho. Você poderá carregar todos os tipos de arquivos no seu PC rapidamente. ",
+        "especificacao": " 1.Versão Bluetooth: V5.0 2.Distância Bluetooth: 10m 3.Tempo de carregamento: cerca de 1-2 horas 4.Tempo de espera: cerca de 80 horas  5.Tempo de Música: cerca de 3 horas  6. Tempo de conversação: cerca de 4 horas  7.Bateria de ouvido: Bateria de lítio de polímero de 45mAh   8.Bateria Case: Bateria de Lítio Polímero 280mAh  9. Formato de transmissão de áudio: HFP/A2DP/HSP/AVRCP "
+        
+    },
+
+    {
+        "id": 2,
+        "titulo": "NJBG A6S TWS Fone De Ouvido Sem Fio Bluetooth 5.0 ",
+        "produto": "https://cf.shopee.com.br/file/2ab0f7e23cca9d4c921f0d4e686030b7",
+        "descricao": "  Controle de um botão facilmente liga / desliga, reproduzir / pausa / trocar música, chamadas mãos-livres para dirigir, trabalhar, reunião, correr.Uma a duas conexões, pode ser conectado a dois telefones celulares ao mesmo tempo.Compatibilidade inteligente: suporte todos os celulares Bluetooth, tablet, notebook, música QQ, filmes, etc., universal todo o telefone móvel.",
+        "especificacao": " 1.Versão Bluetooth: V5.0 2.Distância Bluetooth: 10m 3.Tempo de carregamento: cerca de 1-2 horas4.Tempo de espera: cerca de 80 horas 5.Tempo de Música: cerca de 3 horas 6. Tempo de conversação: cerca de 4 horas 7.Bateria de ouvido: Bateria de lítio de polímero de 45mAh 8.Bateria Case: Bateria de Lítio Polímero 280mAh  9. Formato de transmissão de áudio: HFP/A2DP/HSP/AVRCP "
+      
+    },
+
+    {
+        "id": 3,
+        "titulo": "COPO STANLEY ",
+        "produto": "https://www.orientista.com.br/estatico/orientista/images/produto/copotermicostanleysemtampa473mlpreto.png",
+        "descricao": "  ÓTIMO PARA GUARDAR LIQUIDO",
+        "especificacao": " DE PLASTICO"
+      
+    }
+]
